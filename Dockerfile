@@ -7,5 +7,6 @@ RUN apt-get update && \
     php5-curl \
     php5-ldap \
     unzip \
-    cron
+    cron \
+    mysql-client
 
